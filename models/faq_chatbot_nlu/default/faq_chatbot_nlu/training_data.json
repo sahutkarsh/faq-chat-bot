@@ -92,6 +92,14 @@
       {
         "intent": "gratitude",
         "text": "i am grateful for your assistance"
+      },
+      {
+        "intent": "location",
+        "text": "where do you live"
+      },
+      {
+        "intent": "location",
+        "text": "where do you stay"
       }
     ],
     "regex_features": [],
