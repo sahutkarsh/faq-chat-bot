@@ -91,7 +91,7 @@
         "intent": "greet",
         "entities": []
       },
-	  {
+      {
         "text": "good after noon",
         "intent": "greet",
         "entities": []
@@ -119,16 +119,6 @@
       {
         "text": "i am grateful for your assistance",
         "intent": "gratitude",
-        "entities": []
-      },
-      {
-        "text": "where do you live",
-        "intent": "location",
-        "entities": []
-      },
-      {
-        "text": "where do you stay",
-        "intent": "location",
         "entities": []
       }
     ]
