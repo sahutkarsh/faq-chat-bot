@@ -370,6 +370,149 @@
         "text": "what kind of services can embassies assist you with",
         "intent": "diplomatic network services",
         "entities": []
+      },
+      {
+        "text": "what is the purpose of high commissions",
+        "intent": "high commissions purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "high commissions",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "what does the high commissions do",
+        "intent": "high commissions purpose",
+        "entities": [
+          {
+            "start": 14,
+            "end": 30,
+            "value": "high commissions",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is an nri",
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "nri",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is a non-resident indian",
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 28,
+            "value": "non-resident indian",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is a non resident indian",
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 28,
+            "value": "non resident indian",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "define nri",
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "nri",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is called a non resident indian",
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 16,
+            "end": 35,
+            "value": "non resident indian",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is eligible to be an nri",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "who is eligible to be a non resident indian ",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "what is the eligibility criteria for being an nri",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "who is permitted to hold an nri card",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "who is allowed to hold an nri card",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "who is eligible for an nri card",
+        "intent": "nri eligibility",
+        "entities": []
+      },
+      {
+        "text": "who is a pio",
+        "intent": "pio definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "pio",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "define pio",
+        "intent": "pio definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "pio",
+            "entity": ""
+          }
+        ]
+      },
+      {
+        "text": "who is eligible to be a pio",
+        "intent": "pio eligibility",
+        "entities": []
       }
     ]
   }
