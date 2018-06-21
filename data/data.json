@@ -122,397 +122,112 @@
         "entities": []
       },
       {
-        "text": "What is the size of the Indian diplomatic network",
-        "intent": "diplomatic network size",
+        "text": "can you list the frro locations in india",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 35,
+            "end": 40,
+            "value": "india",
+            "entity": "area"
+          },
+          {
+            "start": 17,
+            "end": 21,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "what is the address of frro of amritsar",
+        "intent": "address",
         "entities": [
           {
             "start": 31,
-            "end": 49,
-            "value": "diplomatic network",
-            "entity": "diplomatic network"
+            "end": 39,
+            "value": "amritsar",
+            "entity": "area"
+          },
+          {
+            "start": 23,
+            "end": 27,
+            "value": "frro",
+            "entity": "body"
           }
         ]
       },
       {
-        "text": "how large is the indian diplomatic network",
-        "intent": "diplomatic network size",
+        "text": "what is the address of fro of amritsar",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 30,
+            "end": 38,
+            "value": "amritsar",
+            "entity": "area"
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "value": "fro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of frro of bangalore",
+        "intent": "address",
         "entities": [
           {
             "start": 24,
-            "end": 42,
-            "value": "diplomatic network",
-            "entity": "diplomatic network"
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
+            "end": 41,
+            "value": "bangalore",
+            "entity": "area"
           }
         ]
       },
       {
-        "text": "how big is the indian diplomatic mission",
-        "intent": "diplomatic network size",
+        "text": "what is the location of frro of banglore",
+        "intent": "address",
         "entities": [
           {
-            "start": 22,
+            "start": 24,
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
             "end": 40,
-            "value": "diplomatic mission",
-            "entity": "diplomatic network"
+            "value": "banglore",
+            "entity": "area"
           }
         ]
       },
       {
-        "text": "how many indian diplomatic missions are there",
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 35,
-            "value": "diplomatic missions",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "how many indian embassies and consulates are there abroad",
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 25,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          },
-          {
-            "start": 30,
-            "end": 40,
-            "value": "consulates",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "how many indian embassies are present abroad",
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 25,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what are the number of indian embassy present in other countries",
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 30,
-            "end": 37,
-            "value": "embassy",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what are the number of indian diplomatic consulates present abroad",
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 30,
-            "end": 51,
-            "value": "diplomatic consulates",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what are high commissions",
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 9,
-            "end": 25,
-            "value": "high commissions",
-            "entity": "entity"
-          }
-        ]
-      },
-      {
-        "text": "define high commissions",
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 7,
-            "end": 23,
-            "value": "high commissions",
-            "entity": "entity"
-          }
-        ]
-      },
-      {
-        "text": "describe high commission",
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 9,
-            "end": 24,
-            "value": "high commission",
-            "entity": "entity"
-          }
-        ]
-      },
-      {
-        "text": "what are the services available at the indian diplomatic missions abroad",
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": "services"
-          },
-          {
-            "start": 46,
-            "end": 65,
-            "value": "diplomatic missions",
-            "entity": "diplomatic network"
-          },
-          {
-            "start": 57,
-            "end": 65,
-            "value": "missions",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what kind of services are offered at the indian embassies",
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": "services"
-          },
-          {
-            "start": 48,
-            "end": 57,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what kind of help can be availed at indian consulates abroad",
-        "intent": "diplomatic network services",
+        "text": "where is the frro of calicut situated",
+        "intent": "address",
         "entities": [
           {
             "start": 13,
             "end": 17,
-            "value": "help",
-            "entity": "services"
+            "value": "frro",
+            "entity": "body"
           },
           {
-            "start": 43,
-            "end": 53,
-            "value": "consulates",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what kind of support service are provided by indian diplomatic embassies abroad",
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
+            "start": 21,
             "end": 28,
-            "value": "support service",
-            "entity": "services"
-          },
-          {
-            "start": 52,
-            "end": 72,
-            "value": "diplomatic embassies",
-            "entity": "diplomatic network"
+            "value": "calicut",
+            "entity": "area"
           }
         ]
-      },
-      {
-        "text": "what kind of services can embassies assist me with",
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": ""
-          },
-          {
-            "start": 36,
-            "end": 42,
-            "value": "assist",
-            "entity": "services"
-          },
-          {
-            "start": 26,
-            "end": 35,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          }
-        ]
-      },
-      {
-        "text": "what are the key support services given by indian diplomatic consulates",
-        "intent": "diplomatic network services",
-        "entities": []
-      },
-      {
-        "text": "what kind of services can embassies assist you with",
-        "intent": "diplomatic network services",
-        "entities": []
-      },
-      {
-        "text": "what is the purpose of high commissions",
-        "intent": "high commissions purpose",
-        "entities": [
-          {
-            "start": 23,
-            "end": 39,
-            "value": "high commissions",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "what does the high commissions do",
-        "intent": "high commissions purpose",
-        "entities": [
-          {
-            "start": 14,
-            "end": 30,
-            "value": "high commissions",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is an nri",
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 10,
-            "end": 13,
-            "value": "nri",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is a non-resident indian",
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 9,
-            "end": 28,
-            "value": "non-resident indian",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is a non resident indian",
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 9,
-            "end": 28,
-            "value": "non resident indian",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "define nri",
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 7,
-            "end": 10,
-            "value": "nri",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is called a non resident indian",
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 16,
-            "end": 35,
-            "value": "non resident indian",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is eligible to be an nri",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "who is eligible to be a non resident indian ",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "what is the eligibility criteria for being an nri",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "who is permitted to hold an nri card",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "who is allowed to hold an nri card",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "who is eligible for an nri card",
-        "intent": "nri eligibility",
-        "entities": []
-      },
-      {
-        "text": "who is a pio",
-        "intent": "pio definition",
-        "entities": [
-          {
-            "start": 9,
-            "end": 12,
-            "value": "pio",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "define pio",
-        "intent": "pio definition",
-        "entities": [
-          {
-            "start": 7,
-            "end": 10,
-            "value": "pio",
-            "entity": ""
-          }
-        ]
-      },
-      {
-        "text": "who is eligible to be a pio",
-        "intent": "pio eligibility",
-        "entities": []
       }
     ]
   }

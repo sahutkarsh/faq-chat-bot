@@ -71,6 +71,10 @@
       },
       {
         "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "greet",
         "text": "good after noon"
       },
       {
@@ -94,12 +98,388 @@
         "text": "i am grateful for your assistance"
       },
       {
-        "intent": "location",
-        "text": "where do you live"
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 31,
+            "end": 49,
+            "value": "diplomatic network",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "What is the size of the Indian diplomatic network"
       },
       {
-        "intent": "location",
-        "text": "where do you stay"
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 24,
+            "end": 42,
+            "value": "diplomatic network",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "how large is the indian diplomatic network"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 22,
+            "end": 40,
+            "value": "diplomatic mission",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "how big is the indian diplomatic mission"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 16,
+            "end": 35,
+            "value": "diplomatic missions",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "how many indian diplomatic missions are there"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 16,
+            "end": 25,
+            "value": "embassies",
+            "entity": "diplomatic network"
+          },
+          {
+            "start": 30,
+            "end": 40,
+            "value": "consulates",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "how many indian embassies and consulates are there abroad"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 16,
+            "end": 25,
+            "value": "embassies",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "how many indian embassies are present abroad"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "embassy",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what are the number of indian embassy present in other countries"
+      },
+      {
+        "intent": "diplomatic network size",
+        "entities": [
+          {
+            "start": 30,
+            "end": 51,
+            "value": "diplomatic consulates",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what are the number of indian diplomatic consulates present abroad"
+      },
+      {
+        "intent": "high commissions definiton",
+        "entities": [
+          {
+            "start": 9,
+            "end": 25,
+            "value": "high commissions",
+            "entity": "entity"
+          }
+        ],
+        "text": "what are high commissions"
+      },
+      {
+        "intent": "high commissions definiton",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "high commissions",
+            "entity": "entity"
+          }
+        ],
+        "text": "define high commissions"
+      },
+      {
+        "intent": "high commissions definiton",
+        "entities": [
+          {
+            "start": 9,
+            "end": 24,
+            "value": "high commission",
+            "entity": "entity"
+          }
+        ],
+        "text": "describe high commission"
+      },
+      {
+        "intent": "diplomatic network services",
+        "entities": [
+          {
+            "start": 13,
+            "end": 21,
+            "value": "services",
+            "entity": "services"
+          },
+          {
+            "start": 46,
+            "end": 65,
+            "value": "diplomatic missions",
+            "entity": "diplomatic network"
+          },
+          {
+            "start": 57,
+            "end": 65,
+            "value": "missions",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what are the services available at the indian diplomatic missions abroad"
+      },
+      {
+        "intent": "diplomatic network services",
+        "entities": [
+          {
+            "start": 13,
+            "end": 21,
+            "value": "services",
+            "entity": "services"
+          },
+          {
+            "start": 48,
+            "end": 57,
+            "value": "embassies",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what kind of services are offered at the indian embassies"
+      },
+      {
+        "intent": "diplomatic network services",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "help",
+            "entity": "services"
+          },
+          {
+            "start": 43,
+            "end": 53,
+            "value": "consulates",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what kind of help can be availed at indian consulates abroad"
+      },
+      {
+        "intent": "diplomatic network services",
+        "entities": [
+          {
+            "start": 13,
+            "end": 28,
+            "value": "support service",
+            "entity": "services"
+          },
+          {
+            "start": 52,
+            "end": 72,
+            "value": "diplomatic embassies",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what kind of support service are provided by indian diplomatic embassies abroad"
+      },
+      {
+        "intent": "diplomatic network services",
+        "entities": [
+          {
+            "start": 13,
+            "end": 21,
+            "value": "services",
+            "entity": ""
+          },
+          {
+            "start": 36,
+            "end": 42,
+            "value": "assist",
+            "entity": "services"
+          },
+          {
+            "start": 26,
+            "end": 35,
+            "value": "embassies",
+            "entity": "diplomatic network"
+          }
+        ],
+        "text": "what kind of services can embassies assist me with"
+      },
+      {
+        "intent": "diplomatic network services",
+        "text": "what are the key support services given by indian diplomatic consulates"
+      },
+      {
+        "intent": "diplomatic network services",
+        "text": "what kind of services can embassies assist you with"
+      },
+      {
+        "intent": "high commissions purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "high commissions",
+            "entity": ""
+          }
+        ],
+        "text": "what is the purpose of high commissions"
+      },
+      {
+        "intent": "high commissions purpose",
+        "entities": [
+          {
+            "start": 14,
+            "end": 30,
+            "value": "high commissions",
+            "entity": ""
+          }
+        ],
+        "text": "what does the high commissions do"
+      },
+      {
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "nri",
+            "entity": ""
+          }
+        ],
+        "text": "who is an nri"
+      },
+      {
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 28,
+            "value": "non-resident indian",
+            "entity": ""
+          }
+        ],
+        "text": "who is a non-resident indian"
+      },
+      {
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 28,
+            "value": "non resident indian",
+            "entity": ""
+          }
+        ],
+        "text": "who is a non resident indian"
+      },
+      {
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "nri",
+            "entity": ""
+          }
+        ],
+        "text": "define nri"
+      },
+      {
+        "intent": "nri definition",
+        "entities": [
+          {
+            "start": 16,
+            "end": 35,
+            "value": "non resident indian",
+            "entity": ""
+          }
+        ],
+        "text": "who is called a non resident indian"
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "who is eligible to be an nri"
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "who is eligible to be a non resident indian "
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "what is the eligibility criteria for being an nri"
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "who is permitted to hold an nri card"
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "who is allowed to hold an nri card"
+      },
+      {
+        "intent": "nri eligibility",
+        "text": "who is eligible for an nri card"
+      },
+      {
+        "intent": "pio definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "pio",
+            "entity": ""
+          }
+        ],
+        "text": "who is a pio"
+      },
+      {
+        "intent": "pio definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "pio",
+            "entity": ""
+          }
+        ],
+        "text": "define pio"
+      },
+      {
+        "intent": "pio eligibility",
+        "text": "who is eligible to be a pio"
       }
     ],
     "regex_features": [],
