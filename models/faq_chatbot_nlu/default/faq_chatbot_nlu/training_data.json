@@ -762,6 +762,150 @@
           }
         ],
         "text": "what are the perks of holding permanent residency status"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 37,
+            "end": 40,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for granting prs"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 32,
+            "end": 35,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the norms for granting prs"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 38,
+            "end": 41,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the constraints for granting prs"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 28,
+            "end": 31,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "under what circumstances is prs granted"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 28,
+            "end": 31,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "under what circumstances is prs given"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "under what constraints is prs given"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "constraints for getting prs"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 44,
+            "end": 47,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what qualifications are needed for availing prs"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 28,
+            "end": 43,
+            "value": "visa on arrival",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for visa on arrival"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 29,
+            "end": 44,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the constraints for employment visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 28,
+            "end": 43,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for employment visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 35,
+            "end": 50,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the norms for granting an employment visa"
       }
     ],
     "regex_features": [],
