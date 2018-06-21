@@ -546,6 +546,246 @@
             "entity": "body"
           }
         ]
+      },
+      {
+        "text": "what are the benefits of being an nri",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the advantages of being an nri",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 36,
+            "end": 39,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the merits of being an nri",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 32,
+            "end": 35,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "benefits of holding an nri card",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the perks of being an nri",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 31,
+            "end": 34,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what kind of benefits are nri entitled to",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the perks enjoyed by an oci cardholder",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 33,
+            "end": 36,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the benefits of holding an oci card",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 36,
+            "end": 39,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "advantages of oci card",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the benefits under prs",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 28,
+            "end": 31,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the perks of holding prs",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 30,
+            "end": 33,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the advantages of having prs",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "perks of oci",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "perks of prs",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what perks do oci enjoy",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "benefits of non resident indian",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 12,
+            "end": 31,
+            "value": "non resident indian",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "benefits of non-resident indians",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 12,
+            "end": 32,
+            "value": "non-resident indians",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "advantages of permanent residency status",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 14,
+            "end": 40,
+            "value": "permanent residency status",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "perks of overseas citizenship of india",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 9,
+            "end": 38,
+            "value": "overseas citizenship of india",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "what are the perks of holding permanent residency status",
+        "intent": "benefits",
+        "entities": [
+          {
+            "start": 30,
+            "end": 56,
+            "value": "permanent residency status",
+            "entity": "status"
+          }
+        ]
       }
     ]
   }
