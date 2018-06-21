@@ -906,6 +906,582 @@
           }
         ],
         "text": "what are the norms for granting an employment visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "employment visa conditions"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "business visa norms"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 25,
+            "end": 38,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "constraints for availing business visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 28,
+            "end": 41,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "under what circumstances is business visa given"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 41,
+            "end": 53,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the preconditions for providing project visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 40,
+            "end": 52,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the criteria for applying for a project visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 39,
+            "end": 51,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the rules before applying for project visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "project visa application criteria"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "project visa rules before application "
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 16,
+            "end": 28,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "regulations for project visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 39,
+            "end": 51,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions to apply for a tourist visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 38,
+            "end": 50,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the norms for applying for a tourist visa"
+      },
+      {
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tourist visa constraints"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 39,
+            "end": 43,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 47,
+            "end": 55,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ],
+        "text": "can you provide the contact details of frro of amritsar"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 29,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ],
+        "text": "contact details frro amritsar"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 25,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ],
+        "text": "contact for frro amritsar"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 9,
+            "end": 13,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 8,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ],
+        "text": "amritsar frro contact details"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 5,
+            "end": 13,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ],
+        "text": "frro amritsar contact details"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 8,
+            "end": 17,
+            "value": "bangalore",
+            "entity": "area"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "frro of bangalore contact"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 40,
+            "end": 44,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 48,
+            "end": 57,
+            "value": "bangalore",
+            "entity": "area"
+          }
+        ],
+        "text": "can you give me the contact details for frro of bangalore"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 40,
+            "end": 44,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 48,
+            "end": 57,
+            "value": "bangalore",
+            "entity": "area"
+          }
+        ],
+        "text": "can you provide me with the contact for frro of bangalore"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "calicut",
+            "entity": "area"
+          },
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "calicut frro phone number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 44,
+            "end": 48,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 52,
+            "end": 59,
+            "value": "calicut",
+            "entity": "area"
+          }
+        ],
+        "text": "can you please give me the phone number for frro of calicut"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ],
+        "text": "phone number of frro cochin"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 5,
+            "end": 11,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ],
+        "text": "frro cochin phone number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "delhi",
+            "entity": "area"
+          },
+          {
+            "start": 6,
+            "end": 10,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "delhi frro contact number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 40,
+            "end": 45,
+            "value": "delhi",
+            "entity": "area"
+          }
+        ],
+        "text": "please provide me the number of frro of delhi"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "value": "hyderabad",
+            "entity": "area"
+          }
+        ],
+        "text": "frro of hyderabad contact number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 35,
+            "end": 39,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 43,
+            "end": 46,
+            "value": "goa",
+            "entity": "area"
+          }
+        ],
+        "text": "what is the contact number for the frro of goa"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 40,
+            "end": 44,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 48,
+            "end": 55,
+            "value": "kolkata",
+            "entity": "area"
+          }
+        ],
+        "text": "can you send me the contact details for frro of kolkata"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 7,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ],
+        "text": "lucknow frro telephone number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 22,
+            "end": 29,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ],
+        "text": "telephone for frro of lucknow"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 29,
+            "end": 36,
+            "value": "lucknow",
+            "entity": "area"
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "telephone number for frro of lucknow"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 38,
+            "end": 44,
+            "value": "mumbai",
+            "entity": "area"
+          }
+        ],
+        "text": "contact number of the frro located in mumbai"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 35,
+            "end": 45,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ],
+        "text": "phone details for frro situated in trivandrum"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 20,
+            "end": 39,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ],
+        "text": "contact details for visa support centre"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 20,
+            "end": 31,
+            "value": "investindia",
+            "entity": "body"
+          }
+        ],
+        "text": "contact details for investindia"
       }
     ],
     "regex_features": [],
