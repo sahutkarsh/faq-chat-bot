@@ -228,6 +228,324 @@
             "entity": "area"
           }
         ]
+      },
+      {
+        "text": "where is the frro of calicut located",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 21,
+            "end": 28,
+            "value": "calicut",
+            "entity": "area"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "can you provide me the address of frro of cochin",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 42,
+            "end": 48,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "can you please provide me the address of frro in cochin",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 49,
+            "end": 55,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "can you tell me the address of frro of delhi",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 31,
+            "end": 35,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 39,
+            "end": 44,
+            "value": "delhi",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "can you tell me the address of frro of new delhi",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 39,
+            "end": 48,
+            "value": "new delhi",
+            "entity": "area"
+          },
+          {
+            "start": 31,
+            "end": 35,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "address of frro goa",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 16,
+            "end": 19,
+            "value": "goa",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the address of hyderabad foreigners registration regional office",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 23,
+            "end": 32,
+            "value": "hyderabad",
+            "entity": "area"
+          },
+          {
+            "start": 33,
+            "end": 72,
+            "value": "foreigners registration regional office",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "what is the address of hyderabad frro",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 23,
+            "end": 32,
+            "value": "hyderabad",
+            "entity": "area"
+          },
+          {
+            "start": 33,
+            "end": 37,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "kolkata foreigners registration regional office",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 8,
+            "end": 47,
+            "value": "foreigners registration regional office",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 7,
+            "value": "kolkata",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "kolkata frro",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 7,
+            "value": "kolkata",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "where is the frro of lucknow",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "where is the frro of mumbai situated",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "value": "mumbai",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "where is the frro of bombay situated",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "bombay",
+            "entity": "area"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "location of frro trivandrum",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "location of frro thiruvananthapuram",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 35,
+            "value": "thiruvananthapuram",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the address of investment facilitation cell",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 23,
+            "end": 51,
+            "value": "investment facilitation cell",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "trivandrum frro location",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "trivandrum",
+            "entity": "area"
+          },
+          {
+            "start": 11,
+            "end": 15,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "lucknow frro address",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "lucknow",
+            "entity": "area"
+          },
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
       }
     ]
   }

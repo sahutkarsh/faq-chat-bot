@@ -98,388 +98,430 @@
         "text": "i am grateful for your assistance"
       },
       {
-        "intent": "diplomatic network size",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 35,
+            "end": 40,
+            "value": "india",
+            "entity": "area"
+          },
+          {
+            "start": 17,
+            "end": 21,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "can you list the frro locations in india"
+      },
+      {
+        "intent": "address",
         "entities": [
           {
             "start": 31,
-            "end": 49,
-            "value": "diplomatic network",
-            "entity": "diplomatic network"
+            "end": 39,
+            "value": "amritsar",
+            "entity": "area"
+          },
+          {
+            "start": 23,
+            "end": 27,
+            "value": "frro",
+            "entity": "body"
           }
         ],
-        "text": "What is the size of the Indian diplomatic network"
+        "text": "what is the address of frro of amritsar"
       },
       {
-        "intent": "diplomatic network size",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 30,
+            "end": 38,
+            "value": "amritsar",
+            "entity": "area"
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "value": "fro",
+            "entity": "body"
+          }
+        ],
+        "text": "what is the address of fro of amritsar"
+      },
+      {
+        "intent": "address",
         "entities": [
           {
             "start": 24,
-            "end": 42,
-            "value": "diplomatic network",
-            "entity": "diplomatic network"
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
+            "end": 41,
+            "value": "bangalore",
+            "entity": "area"
           }
         ],
-        "text": "how large is the indian diplomatic network"
+        "text": "what is the location of frro of bangalore"
       },
       {
-        "intent": "diplomatic network size",
+        "intent": "address",
         "entities": [
           {
-            "start": 22,
+            "start": 24,
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
             "end": 40,
-            "value": "diplomatic mission",
-            "entity": "diplomatic network"
+            "value": "banglore",
+            "entity": "area"
           }
         ],
-        "text": "how big is the indian diplomatic mission"
+        "text": "what is the location of frro of banglore"
       },
       {
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 35,
-            "value": "diplomatic missions",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "how many indian diplomatic missions are there"
-      },
-      {
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 25,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          },
-          {
-            "start": 30,
-            "end": 40,
-            "value": "consulates",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "how many indian embassies and consulates are there abroad"
-      },
-      {
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 16,
-            "end": 25,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "how many indian embassies are present abroad"
-      },
-      {
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 30,
-            "end": 37,
-            "value": "embassy",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "what are the number of indian embassy present in other countries"
-      },
-      {
-        "intent": "diplomatic network size",
-        "entities": [
-          {
-            "start": 30,
-            "end": 51,
-            "value": "diplomatic consulates",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "what are the number of indian diplomatic consulates present abroad"
-      },
-      {
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 9,
-            "end": 25,
-            "value": "high commissions",
-            "entity": "entity"
-          }
-        ],
-        "text": "what are high commissions"
-      },
-      {
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 7,
-            "end": 23,
-            "value": "high commissions",
-            "entity": "entity"
-          }
-        ],
-        "text": "define high commissions"
-      },
-      {
-        "intent": "high commissions definiton",
-        "entities": [
-          {
-            "start": 9,
-            "end": 24,
-            "value": "high commission",
-            "entity": "entity"
-          }
-        ],
-        "text": "describe high commission"
-      },
-      {
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": "services"
-          },
-          {
-            "start": 46,
-            "end": 65,
-            "value": "diplomatic missions",
-            "entity": "diplomatic network"
-          },
-          {
-            "start": 57,
-            "end": 65,
-            "value": "missions",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "what are the services available at the indian diplomatic missions abroad"
-      },
-      {
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": "services"
-          },
-          {
-            "start": 48,
-            "end": 57,
-            "value": "embassies",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "what kind of services are offered at the indian embassies"
-      },
-      {
-        "intent": "diplomatic network services",
+        "intent": "address",
         "entities": [
           {
             "start": 13,
             "end": 17,
-            "value": "help",
-            "entity": "services"
+            "value": "frro",
+            "entity": "body"
           },
           {
-            "start": 43,
-            "end": 53,
-            "value": "consulates",
-            "entity": "diplomatic network"
-          }
-        ],
-        "text": "what kind of help can be availed at indian consulates abroad"
-      },
-      {
-        "intent": "diplomatic network services",
-        "entities": [
-          {
-            "start": 13,
+            "start": 21,
             "end": 28,
-            "value": "support service",
-            "entity": "services"
-          },
-          {
-            "start": 52,
-            "end": 72,
-            "value": "diplomatic embassies",
-            "entity": "diplomatic network"
+            "value": "calicut",
+            "entity": "area"
           }
         ],
-        "text": "what kind of support service are provided by indian diplomatic embassies abroad"
+        "text": "where is the frro of calicut situated"
       },
       {
-        "intent": "diplomatic network services",
+        "intent": "address",
         "entities": [
           {
+            "start": 21,
+            "end": 28,
+            "value": "calicut",
+            "entity": "area"
+          },
+          {
             "start": 13,
-            "end": 21,
-            "value": "services",
-            "entity": ""
-          },
-          {
-            "start": 36,
-            "end": 42,
-            "value": "assist",
-            "entity": "services"
-          },
-          {
-            "start": 26,
-            "end": 35,
-            "value": "embassies",
-            "entity": "diplomatic network"
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
           }
         ],
-        "text": "what kind of services can embassies assist me with"
+        "text": "where is the frro of calicut located"
       },
       {
-        "intent": "diplomatic network services",
-        "text": "what are the key support services given by indian diplomatic consulates"
+        "intent": "address",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 42,
+            "end": 48,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ],
+        "text": "can you provide me the address of frro of cochin"
       },
       {
-        "intent": "diplomatic network services",
-        "text": "what kind of services can embassies assist you with"
+        "intent": "address",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 49,
+            "end": 55,
+            "value": "cochin",
+            "entity": "area"
+          }
+        ],
+        "text": "can you please provide me the address of frro in cochin"
       },
       {
-        "intent": "high commissions purpose",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 31,
+            "end": 35,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 39,
+            "end": 44,
+            "value": "delhi",
+            "entity": "area"
+          }
+        ],
+        "text": "can you tell me the address of frro of delhi"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 39,
+            "end": 48,
+            "value": "new delhi",
+            "entity": "area"
+          },
+          {
+            "start": 31,
+            "end": 35,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "can you tell me the address of frro of new delhi"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 16,
+            "end": 19,
+            "value": "goa",
+            "entity": "area"
+          }
+        ],
+        "text": "address of frro goa"
+      },
+      {
+        "intent": "address",
         "entities": [
           {
             "start": 23,
-            "end": 39,
-            "value": "high commissions",
-            "entity": ""
+            "end": 32,
+            "value": "hyderabad",
+            "entity": "area"
+          },
+          {
+            "start": 33,
+            "end": 72,
+            "value": "foreigners registration regional office",
+            "entity": "body"
           }
         ],
-        "text": "what is the purpose of high commissions"
+        "text": "what is the address of hyderabad foreigners registration regional office"
       },
       {
-        "intent": "high commissions purpose",
+        "intent": "address",
         "entities": [
           {
-            "start": 14,
-            "end": 30,
-            "value": "high commissions",
-            "entity": ""
+            "start": 23,
+            "end": 32,
+            "value": "hyderabad",
+            "entity": "area"
+          },
+          {
+            "start": 33,
+            "end": 37,
+            "value": "frro",
+            "entity": "body"
           }
         ],
-        "text": "what does the high commissions do"
+        "text": "what is the address of hyderabad frro"
       },
       {
-        "intent": "nri definition",
+        "intent": "address",
         "entities": [
           {
-            "start": 10,
-            "end": 13,
-            "value": "nri",
-            "entity": ""
+            "start": 8,
+            "end": 47,
+            "value": "foreigners registration regional office",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 7,
+            "value": "kolkata",
+            "entity": "area"
           }
         ],
-        "text": "who is an nri"
+        "text": "kolkata foreigners registration regional office"
       },
       {
-        "intent": "nri definition",
+        "intent": "address",
         "entities": [
           {
-            "start": 9,
-            "end": 28,
-            "value": "non-resident indian",
-            "entity": ""
-          }
-        ],
-        "text": "who is a non-resident indian"
-      },
-      {
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 9,
-            "end": 28,
-            "value": "non resident indian",
-            "entity": ""
-          }
-        ],
-        "text": "who is a non resident indian"
-      },
-      {
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 7,
-            "end": 10,
-            "value": "nri",
-            "entity": ""
-          }
-        ],
-        "text": "define nri"
-      },
-      {
-        "intent": "nri definition",
-        "entities": [
-          {
-            "start": 16,
-            "end": 35,
-            "value": "non resident indian",
-            "entity": ""
-          }
-        ],
-        "text": "who is called a non resident indian"
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "who is eligible to be an nri"
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "who is eligible to be a non resident indian "
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "what is the eligibility criteria for being an nri"
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "who is permitted to hold an nri card"
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "who is allowed to hold an nri card"
-      },
-      {
-        "intent": "nri eligibility",
-        "text": "who is eligible for an nri card"
-      },
-      {
-        "intent": "pio definition",
-        "entities": [
-          {
-            "start": 9,
+            "start": 8,
             "end": 12,
-            "value": "pio",
-            "entity": ""
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 7,
+            "value": "kolkata",
+            "entity": "area"
           }
         ],
-        "text": "who is a pio"
+        "text": "kolkata frro"
       },
       {
-        "intent": "pio definition",
+        "intent": "address",
         "entities": [
           {
-            "start": 7,
-            "end": 10,
-            "value": "pio",
-            "entity": ""
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 28,
+            "value": "lucknow",
+            "entity": "area"
           }
         ],
-        "text": "define pio"
+        "text": "where is the frro of lucknow"
       },
       {
-        "intent": "pio eligibility",
-        "text": "who is eligible to be a pio"
+        "intent": "address",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "value": "mumbai",
+            "entity": "area"
+          }
+        ],
+        "text": "where is the frro of mumbai situated"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "bombay",
+            "entity": "area"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "where is the frro of bombay situated"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 27,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ],
+        "text": "location of frro trivandrum"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 35,
+            "value": "thiruvananthapuram",
+            "entity": "area"
+          }
+        ],
+        "text": "location of frro thiruvananthapuram"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 23,
+            "end": 51,
+            "value": "investment facilitation cell",
+            "entity": "body"
+          }
+        ],
+        "text": "what is the address of investment facilitation cell"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "trivandrum",
+            "entity": "area"
+          },
+          {
+            "start": 11,
+            "end": 15,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "trivandrum frro location"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "lucknow",
+            "entity": "area"
+          },
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          }
+        ],
+        "text": "lucknow frro address"
       }
     ],
     "regex_features": [],
