@@ -1482,6 +1482,1242 @@
           }
         ],
         "text": "contact details for investindia"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ],
+        "text": "visa support centre contact details"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 43,
+            "end": 62,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ],
+        "text": "can you send me the contact details of the visa support centre"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 53,
+            "end": 72,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ],
+        "text": "could you please send me the telephone number of the visa support centre"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ],
+        "text": "visa support centre telephone number"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "investindia",
+            "entity": "body"
+          }
+        ],
+        "text": "investindia contact details"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 40,
+            "end": 51,
+            "value": "investindia",
+            "entity": "body"
+          }
+        ],
+        "text": "can you send me the telephone number of investindia"
+      },
+      {
+        "intent": "contact",
+        "entities": [
+          {
+            "start": 17,
+            "end": 28,
+            "value": "investindia",
+            "entity": "body"
+          }
+        ],
+        "text": "phone number for investindia"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 25,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are high commissions"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "define high commissions"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 18,
+            "end": 34,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are known as high commissions"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 25,
+            "end": 41,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me what are high commissions"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is an nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 20,
+            "end": 23,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called as an nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "define nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is known as an nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the definition of nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is a pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is a pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called as a pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "define pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the definition of pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "define oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is an oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 27,
+            "end": 30,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the definition of  oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 20,
+            "end": 23,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called as an oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "how do you define oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "describe oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 31,
+            "end": 34,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the meaning of oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "define prs"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "meaning of prs"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 13,
+            "end": 16,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "full form of prs"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the full form for prs"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 19,
+            "value": "home country",
+            "entity": "subject"
+          }
+        ],
+        "text": "define home country"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "home country",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is known as a home country"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "home country",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is home country"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 22,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define employment visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 23,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is employment visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 26,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "meaning of employment visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 34,
+            "end": 49,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the definition of employment visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 20,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define business visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 21,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is business visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 24,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "meaning of business visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 34,
+            "end": 47,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the definition of business visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 19,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define project visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is project visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is tourist visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 19,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define tourist visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 24,
+            "end": 36,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "describe the meaning of tourist visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 35,
+            "end": 47,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "please tell me the definition of a tourist visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "resident",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is a resident"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 9,
+            "end": 17,
+            "value": "resident",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is a resident"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "resident",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is known as a resident"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 15,
+            "value": "resident",
+            "entity": "subject"
+          }
+        ],
+        "text": "define resident"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 13,
+            "value": "nr",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is an nr"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 19,
+            "end": 21,
+            "value": "nr",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is known as an nr"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "nr",
+            "entity": "subject"
+          }
+        ],
+        "text": "define nr"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 17,
+            "end": 19,
+            "value": "nr",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called an nr"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "define rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called a rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is a rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the full form of rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ror",
+            "entity": "subject"
+          }
+        ],
+        "text": "define ror"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "ror",
+            "entity": "subject"
+          }
+        ],
+        "text": "who is called a ror"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "ror",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is a ror"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the full form of rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 17,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define entry visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 23,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "meaning of project visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 34,
+            "end": 46,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the definition of project visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 11,
+            "end": 21,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is an entry visa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 23,
+            "end": 27,
+            "value": "dtaa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the meaning of dtaa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "dtaa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what does dtaa mean"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "dtaa",
+            "entity": "subject"
+          }
+        ],
+        "text": "define dtaa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "dtaa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the full form of dtaa"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "acd",
+            "entity": "subject"
+          }
+        ],
+        "text": "define acd"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "bcd",
+            "entity": "subject"
+          }
+        ],
+        "text": "define bcd"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "dipp",
+            "entity": "subject"
+          }
+        ],
+        "text": "define dipp"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ecb",
+            "entity": "subject"
+          }
+        ],
+        "text": "define ecb"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "esop",
+            "entity": "subject"
+          }
+        ],
+        "text": "define esop"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "epf",
+            "entity": "subject"
+          }
+        ],
+        "text": "define epf"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "eta",
+            "entity": "subject"
+          }
+        ],
+        "text": "define eta"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "fcra",
+            "entity": "subject"
+          }
+        ],
+        "text": "define fcra"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "fema",
+            "entity": "subject"
+          }
+        ],
+        "text": "define fema"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "fir",
+            "entity": "subject"
+          }
+        ],
+        "text": "define fir"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "fro",
+            "entity": "subject"
+          }
+        ],
+        "text": "define fro"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "frro",
+            "entity": "subject"
+          }
+        ],
+        "text": "define frro"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "fy",
+            "entity": "subject"
+          }
+        ],
+        "text": "define fy"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "inr",
+            "entity": "subject"
+          }
+        ],
+        "text": "define inr"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "ivac",
+            "entity": "subject"
+          }
+        ],
+        "text": "define ivac"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "mha",
+            "entity": "subject"
+          }
+        ],
+        "text": "define mha"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ngo",
+            "entity": "subject"
+          }
+        ],
+        "text": "define ngo"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ],
+        "text": "define nri"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "define oci"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "pan",
+            "entity": "subject"
+          }
+        ],
+        "text": "define pan"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ],
+        "text": "define pio"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "define prs"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "psu",
+            "entity": "subject"
+          }
+        ],
+        "text": "define psu"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "rnor",
+            "entity": "subject"
+          }
+        ],
+        "text": "define rnor"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ror",
+            "entity": "subject"
+          }
+        ],
+        "text": "define ror"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "sas",
+            "entity": "subject"
+          }
+        ],
+        "text": "define sas"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "tds",
+            "entity": "subject"
+          }
+        ],
+        "text": "define tds"
+      },
+      {
+        "intent": "definition",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "usd",
+            "entity": "subject"
+          }
+        ],
+        "text": "define usd"
       }
     ],
     "regex_features": [],
