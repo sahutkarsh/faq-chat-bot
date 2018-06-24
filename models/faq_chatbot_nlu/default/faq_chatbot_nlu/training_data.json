@@ -6332,52 +6332,352 @@
         "text": "send me the address for frro of lucknow"
       },
       {
-        "intent": "extension",
+        "intent": "legislation",
         "entities": [
           {
-            "start": 42,
-            "end": 57,
-            "value": "employment visa",
-            "entity": "subject"
+            "start": 36,
+            "end": 47,
+            "value": "immigration",
+            "entity": "field"
           }
         ],
-        "text": "what are the conditions for extending the employment visa"
+        "text": "what are the legislation regulating immigration to india"
       },
       {
-        "intent": "extension",
+        "intent": "legislation",
         "entities": [
           {
-            "start": 42,
-            "end": 54,
-            "value": "project visa",
-            "entity": "subject"
+            "start": 29,
+            "end": 40,
+            "value": "immigration",
+            "entity": "field"
           }
         ],
-        "text": "what are the conditions for extending the project visa"
+        "text": "what are the laws regulating immigration to india"
       },
       {
-        "intent": "extension",
+        "intent": "legislation",
         "entities": [
           {
-            "start": 42,
-            "end": 52,
-            "value": "entry visa",
-            "entity": "subject"
+            "start": 0,
+            "end": 11,
+            "value": "immigration",
+            "entity": "field"
           }
         ],
-        "text": "what are the conditions for extending the entry visa"
+        "text": "immigration laws in india"
       },
       {
-        "intent": "extension",
+        "intent": "legislation",
         "entities": [
           {
-            "start": 42,
-            "end": 54,
-            "value": "tourist visa",
-            "entity": "subject"
+            "start": 23,
+            "end": 34,
+            "value": "immigration",
+            "entity": "field"
           }
         ],
-        "text": "what are the conditions for extending the tourist visa"
+        "text": "legislations regarding immigration"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 15,
+            "end": 26,
+            "value": "immigration",
+            "entity": "field"
+          }
+        ],
+        "text": "laws regarding immigration in india"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "immigration",
+            "entity": "field"
+          }
+        ],
+        "text": "immigration regulations in india"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 30,
+            "end": 42,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "legislation under ministry of home affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 23,
+            "end": 35,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "laws under ministry of home affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 47,
+            "end": 59,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the regulations under the ministry of home affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "home affairs ministry legislations"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "home affairs ministry laws"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 12,
+            "end": 24,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "ministry of home affairs laws"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 12,
+            "end": 24,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "ministry of home affairs regulations"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 30,
+            "end": 46,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "legislation under ministry of external affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "laws under ministry of external affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 47,
+            "end": 63,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the regulations under the ministry of external affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "external affairs ministry legislations"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "external affairs ministry laws"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 12,
+            "end": 19,
+            "value": "finance",
+            "entity": "field"
+          }
+        ],
+        "text": "ministry of finance laws"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 12,
+            "end": 19,
+            "value": "finance",
+            "entity": "field"
+          }
+        ],
+        "text": "ministry of finance regulations"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "finance",
+            "entity": "field"
+          }
+        ],
+        "text": "legislation under ministry of finance"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "finance",
+            "entity": "field"
+          }
+        ],
+        "text": "laws under ministry of finance"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 22,
+            "end": 31,
+            "value": "foreigner",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the laws for foreigner entry to india"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 36,
+            "end": 43,
+            "value": "foreign",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the legislations regarding foreign entry"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 22,
+            "end": 29,
+            "value": "foreign",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the laws for foreign to india"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 36,
+            "end": 45,
+            "value": "foreigner",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the legislations regarding foreigner entry"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "foreign",
+            "entity": "field"
+          }
+        ],
+        "text": "foreign entry laws"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "foreigner",
+            "entity": "field"
+          }
+        ],
+        "text": "foreigner entry legislations"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 20,
+            "end": 29,
+            "value": "foreigner",
+            "entity": "field"
+          }
+        ],
+        "text": "which laws regulate foreigner entry to india"
       }
     ],
     "regex_features": [],
