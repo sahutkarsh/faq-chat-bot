@@ -6312,6 +6312,72 @@
           }
         ],
         "text": "frro of trivandrum mail"
+      },
+      {
+        "intent": "address",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ],
+        "text": "send me the address for frro of lucknow"
+      },
+      {
+        "intent": "extension",
+        "entities": [
+          {
+            "start": 42,
+            "end": 57,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for extending the employment visa"
+      },
+      {
+        "intent": "extension",
+        "entities": [
+          {
+            "start": 42,
+            "end": 54,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for extending the project visa"
+      },
+      {
+        "intent": "extension",
+        "entities": [
+          {
+            "start": 42,
+            "end": 52,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for extending the entry visa"
+      },
+      {
+        "intent": "extension",
+        "entities": [
+          {
+            "start": 42,
+            "end": 54,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the conditions for extending the tourist visa"
       }
     ],
     "regex_features": [],
