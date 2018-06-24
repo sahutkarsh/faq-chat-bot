@@ -5610,6 +5610,732 @@
             "entity": "country"
           }
         ]
+      },
+      {
+        "text": "who is eligible to be an nri",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 25,
+            "end": 28,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "eligibility criteria for being an nri",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "eligibility criteria for nri",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 25,
+            "end": 28,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "nri eligibility criteria",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "what is the eligibility to be an nri",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 33,
+            "end": 36,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "how to know if im eligible for an nri card",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 34,
+            "end": 37,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "what are the conditions for getting an nri card",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 39,
+            "end": 42,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "who is permitted to be an nri",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "who is allowed to hold an nri status",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "nri",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "who is entitled for a pio status",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 22,
+            "end": 25,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "who is entitled to hold a pio card",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 26,
+            "end": 29,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "what are the conditions to be a pio card holder",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 32,
+            "end": 35,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "pio elegibility",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "eligibility for pio card",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "pio",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "am i eligible to be an oci",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "oci card holder eligibility criteria",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "eligibility criteria for oci card",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 25,
+            "end": 28,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "what are the conditions for being an oci",
+        "intent": "conditions",
+        "entities": [
+          {
+            "start": 37,
+            "end": 40,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "what is the email address of the frro in amritsar",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 33,
+            "end": 37,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 41,
+            "end": 49,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the email address for the frro in amritsar",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 42,
+            "end": 50,
+            "value": "amritsar",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "frro bangalore email id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 5,
+            "end": 14,
+            "value": "bangalore",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "email id for frro bangalore",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 18,
+            "end": 27,
+            "value": "bangalore",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "can you please provide me the email address for frro bangalore",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 48,
+            "end": 52,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 53,
+            "end": 62,
+            "value": "bangalore",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "mail id for frro calicut",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 17,
+            "end": 24,
+            "value": "calicut",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "mail address for frro calicut",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 22,
+            "end": 29,
+            "value": "calicut",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "frro of calicut mail id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "calicut",
+            "entity": "area"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "mail address for frro of cochin",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 25,
+            "end": 31,
+            "value": "cochin",
+            "entity": "area"
+          },
+          {
+            "start": 17,
+            "end": 21,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "email address for frro cochin",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 23,
+            "end": 29,
+            "value": "cochin",
+            "entity": "area"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "can you please provide me with the email for frro delhi",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 45,
+            "end": 49,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 50,
+            "end": 55,
+            "value": "delhi",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "can you give me the email address for frro of delhi",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 38,
+            "end": 42,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 46,
+            "end": 51,
+            "value": "delhi",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "delhi frro email id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "delhi",
+            "entity": "area"
+          },
+          {
+            "start": 6,
+            "end": 10,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "goa frro mail address",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "goa",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "please give me the email address for goa frro",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 37,
+            "end": 40,
+            "value": "goa",
+            "entity": "area"
+          },
+          {
+            "start": 41,
+            "end": 45,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "frro of hyderabad email id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "value": "hyderabad",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "send me the email address of hyderabad frro",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 39,
+            "end": 43,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 29,
+            "end": 38,
+            "value": "hyderabad",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the email for frro of kolkata",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 30,
+            "end": 37,
+            "value": "kolkata",
+            "entity": "area"
+          },
+          {
+            "start": 22,
+            "end": 26,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "what is the email address for kolkata frro",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 38,
+            "end": 42,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 30,
+            "end": 37,
+            "value": "kolkata",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "kolkata frro email",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "kolkata",
+            "entity": "area"
+          },
+          {
+            "start": 8,
+            "end": 12,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "what is the mail address for frro of lucknow",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 29,
+            "end": 33,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 37,
+            "end": 44,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the email id for frro of lucknow",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 33,
+            "end": 40,
+            "value": "lucknow",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "provide me the email for frro mumbai",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "mumbai",
+            "entity": "area"
+          },
+          {
+            "start": 25,
+            "end": 29,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "email address frro mumbai",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "mumbai",
+            "entity": "area"
+          },
+          {
+            "start": 14,
+            "end": 18,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "frro of trivandrum email id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 8,
+            "end": 18,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the email for frro of trivandrum",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 30,
+            "end": 40,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "frro of trivandrum mail address",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 8,
+            "end": 18,
+            "value": "trivandrum",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "what is the email id for the visa support centre",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 29,
+            "end": 48,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "visa support centre email id",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "visa support centre",
+            "entity": "body"
+          }
+        ]
       }
     ]
   }
