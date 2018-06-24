@@ -6678,6 +6678,546 @@
           }
         ],
         "text": "which laws regulate foreigner entry to india"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 47,
+            "end": 54,
+            "value": "finance",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the rules governed by the ministry of finance"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 47,
+            "end": 59,
+            "value": "home affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "what are the rules governed by the ministry of home affairs"
+      },
+      {
+        "intent": "legislation",
+        "entities": [
+          {
+            "start": 34,
+            "end": 50,
+            "value": "external affairs",
+            "entity": "field"
+          }
+        ],
+        "text": "rules governed by the ministry of external affairs"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 38,
+            "end": 46,
+            "value": "key visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "how to fill an online application for key visa"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 34,
+            "end": 42,
+            "value": "key visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the process for filling a key visa application"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 25,
+            "end": 33,
+            "value": "key visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the procedure of key visa application"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "online visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "online visa procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "visa application procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "online visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "online visa application procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 40,
+            "end": 44,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the application procedure for a visa"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is application procedure for visa online"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 27,
+            "end": 39,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "process of application for tourist visa"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tourist visa application process"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 32,
+            "end": 44,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the steps to apply for tourist visa"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tourist visa application procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "passport",
+            "entity": "subject"
+          }
+        ],
+        "text": "how to collect my passport"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 34,
+            "end": 42,
+            "value": "passport",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the process to collect my passport"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 16,
+            "end": 24,
+            "value": "passport",
+            "entity": "subject"
+          }
+        ],
+        "text": "how do i get my passport back"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 21,
+            "end": 32,
+            "value": "tax returns",
+            "entity": "subject"
+          }
+        ],
+        "text": "how is the filing of tax returns done"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 8,
+            "end": 19,
+            "value": "tax returns",
+            "entity": "subject"
+          }
+        ],
+        "text": "how are tax returns filed"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 30,
+            "end": 41,
+            "value": "tax returns",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the procedure to file tax returns"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "tax returns",
+            "entity": "subject"
+          }
+        ],
+        "text": "tax returns filing procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "tax return",
+            "entity": "subject"
+          }
+        ],
+        "text": "tax return filing procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 21,
+            "end": 31,
+            "value": "tax return",
+            "entity": "subject"
+          }
+        ],
+        "text": "how is the filing of tax return done"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 39,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the purpose of high commissions"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "high commissions",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the key purpose of high commissions"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the key use of prs"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the use of prs"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the purpose of prs"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 23,
+            "end": 38,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the purpose of employment visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "employment visa purpose"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 21,
+            "end": 36,
+            "value": "employment visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what purpose does an employment visa serve"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "business visa purpose"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 13,
+            "end": 26,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "purpose of a business visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 33,
+            "end": 46,
+            "value": "business visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the purpose of a business visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 33,
+            "end": 45,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the purpose of a project visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 25,
+            "end": 37,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the utility of a project visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "project visa utility"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 13,
+            "end": 25,
+            "value": "project visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "utility of a project visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 27,
+            "end": 37,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you tell me the use of entry visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 34,
+            "end": 44,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "can you explain the purpose of an entry visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 26,
+            "end": 36,
+            "value": "entry visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tell me the utility of an entry visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 33,
+            "end": 45,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the purpose for granting tourist visa"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tourist visa use"
+      },
+      {
+        "intent": "purpose",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "tourist visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "tourist visa purpose"
       }
     ],
     "regex_features": [],
