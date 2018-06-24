@@ -3273,7 +3273,7 @@
       },
       {
         "text": "time period of permanent residency status",
-        "intent": "",
+        "intent": "duration",
         "entities": [
           {
             "start": 15,
@@ -3352,6 +3352,2262 @@
             "end": 23,
             "value": "prs",
             "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "how long is prs valid for a person",
+        "intent": "duration",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "prs",
+            "entity": "subject"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in albania",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "albania",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in albania",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "albania",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in comoros",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "comoros",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in hungary",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "hungary",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in mozambique",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "mozambique",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in sierra leone",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "sierra leone",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in andorra",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "andorra",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in cook islands",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "cook islands",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in iceland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "iceland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in myanmar",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "myanmar",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in singapore",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "singapore",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in angola",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "angola",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in costa rica",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "costa rica",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in indonesia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "indonesia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in namibia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "namibia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in slovakia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "slovakia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in anguilla",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "anguilla",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in cote d'lvoire",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "cote d'lvoire",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in ireland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "ireland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in nauru",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "nauru",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in slovenia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "slovenia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in antigua",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "antigua",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in barbuda",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "barbuda",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in croatia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "croatia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in israel",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "israel",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in netherlands",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "netherlands",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in solomon islands",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 34,
+            "value": "solomon islands",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in argentina",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "argentina",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in cuba",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "cuba",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in italy",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "italy",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in new zealand",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "new zealand",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in south africa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "south africa",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in armenia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "armenia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in cyprus",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "cyprus",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in jamaica",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "jamaica",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in nicaragua",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "nicaragua",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in spain",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "spain",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in aruba",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "aruba",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in czech republic",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "czech republic",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in japan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "japan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in niger republic",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 33,
+            "value": "niger republic",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in sri lanka",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "sri lanka",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in australia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "australia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in denmark",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "denmark",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in jordan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "jordan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in niue island",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "niue island",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in suriname",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "suriname",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in austria",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "austria",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in djibouti",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "djibouti",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in kenya",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "kenya",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in norway",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "norway",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in swaziland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "swaziland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in azerbaijan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "azerbaijan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in dominica",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "dominica",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in kiribati",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "kiribati",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in oman",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "oman",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in sweden",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "sweden",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in bahamas",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "bahamas",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in dominican republic",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 37,
+            "value": "dominican republic",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in laos",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "laos",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in palau",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "palau",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in switzerland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "switzerland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in barbados",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "barbados",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in east",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "east",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in timor",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "timor",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in latvia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "latvia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in palestine",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "palestine",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in taiwan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "taiwan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in belgium",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "belgium",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in ecuador",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "ecuador",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in lesotho",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "lesotho",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in panama",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "panama",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in tajikistan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "tajikistan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in belize",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "belize",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in el salvador",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 30,
+            "value": "el salvador",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in liberia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "liberia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in papua new guinea",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 35,
+            "value": "papua new guinea",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in tanzania",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "tanzania",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in bolivia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "bolivia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in eritrea",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 26,
+            "value": "eritrea",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is e-visa valid in liechtenstein",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 19,
+            "end": 32,
+            "value": "liechtenstein",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in paraguay",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "paraguay",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in thailand",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "thailand",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in bosnia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "bosnia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in herzegovina",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 28,
+            "value": "herzegovina",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in estonia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "estonia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in lithuania",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "lithuania",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in peru",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "peru",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in tonga",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "tonga",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in botswana",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "botswana",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in fiji",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "fiji",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in luxembourg",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "luxembourg",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in philippines",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 28,
+            "value": "philippines",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in trinidad",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "trinidad",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in tobago",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "tobago",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in brazil",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "brazil",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in finland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "finland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in madagascar",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "madagascar",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in poland",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "poland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in turks",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "turks",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in caicos island",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 30,
+            "value": "caicos island",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in brunei",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "brunei",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in france",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "france",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in malawi",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "malawi",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in portugal",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "portugal",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in tuvalu",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "tuvalu",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in bulgaria",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "bulgaria",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in gabon",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "gabon",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in malaysia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "malaysia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in republic of korea",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 34,
+            "value": "republic of korea",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in south korea",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 28,
+            "value": "south korea",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in uae",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "uae",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in burundi",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "burundi",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in gambia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "gambia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in mali",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "mali",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in republic of macedonia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 38,
+            "value": "republic of macedonia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in macedonia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "macedonia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in uganda",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "uganda",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in cambodia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "cambodia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in georgia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "georgia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in malta",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "malta",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in romania",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "romania",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in ukraine",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "ukraine",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in cameron union republic",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 39,
+            "value": "cameron union republic",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in germany",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "germany",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in marshall islands",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 33,
+            "value": "marshall islands",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in russia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "russia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in united kingdom",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 31,
+            "value": "united kingdom",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in canada",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "canada",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in ghana",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "ghana",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in mauritius",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "mauritius",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in rwanda",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "rwanda",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in uruguay",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "uruguay",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in cape verde",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "cape verde",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in greece",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "greece",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in mexico",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "mexico",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in saint christopher",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 34,
+            "value": "saint christopher",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in nevis",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "nevis",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in usa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "usa",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in cayman island",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 30,
+            "value": "cayman island",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in grenada",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "grenada",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in micronesia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "micronesia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in saint lucia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 28,
+            "value": "saint lucia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in uzbekistan",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "uzbekistan",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in chile",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "chile",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in guatemala",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "guatemala",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in moldova",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "moldova",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in saint vincent",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 30,
+            "value": "saint vincent",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in grenadines",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "grenadines",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in vanuatu",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "vanuatu",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in china",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "china",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in guinea",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "guinea",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in monaco",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "monaco",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in samoa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "samoa",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in vatican city",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 29,
+            "value": "vatican city",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in holy see",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "holy see",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in hong kong",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "hong kong",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in guyana",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "guyana",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in mongolia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "mongolia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in san marino",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "san marino",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in venezuela",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "venezuela",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in china",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "china",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in sar",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "sar",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in macau",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "macau",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in haiti",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "haiti",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in montenegro",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "montenegro",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in senegal",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "senegal",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in vietnam",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "vietnam",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in colombia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "colombia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in honduras",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "honduras",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in montserrat",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "montserrat",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in serbia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "serbia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in zambia",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "zambia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in seychelles",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "seychelles",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is visa valid in zimbabwe",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "zimbabwe",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in switzerland, is my visa valid",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 21,
+            "value": "switzerland",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "am i allowed to get a visa if i live in china",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 40,
+            "end": 45,
+            "value": "china",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in zambia, is my visa valid",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "zambia",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is my visa valid i live in andorra",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "andorra",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in germany, am i allowed to obtain a visa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 17,
+            "value": "germany",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in brazil, is my visa valid",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "brazil",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in portugal, is my visa valid",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "portugal",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is my visa valid i live in netherlands",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 27,
+            "end": 38,
+            "value": "netherlands",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "is my visa valid i live in austria",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "austria",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in zimbabwe, am i allowed to obtain a visa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 18,
+            "value": "zimbabwe",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in venezuela, am i allowed to obtain a visa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "venezuela",
+            "entity": "country"
+          }
+        ]
+      },
+      {
+        "text": "i live in chile, am i allowed to obtain a visa",
+        "intent": "validity",
+        "entities": [
+          {
+            "start": 10,
+            "end": 15,
+            "value": "chile",
+            "entity": "country"
           }
         ]
       }
