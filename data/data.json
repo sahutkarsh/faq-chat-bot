@@ -5828,36 +5828,36 @@
         ]
       },
       {
-        "text": "what is the email address of the frro in amritsar",
+        "text": "what is the email of the frro in amritsar",
         "intent": "email",
         "entities": [
           {
-            "start": 33,
-            "end": 37,
+            "start": 25,
+            "end": 29,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 41,
-            "end": 49,
+            "start": 33,
+            "end": 41,
             "value": "amritsar",
             "entity": "area"
           }
         ]
       },
       {
-        "text": "what is the email address for the frro in amritsar",
+        "text": "what is the email for the frro in amritsar",
         "intent": "email",
         "entities": [
           {
-            "start": 34,
-            "end": 38,
+            "start": 26,
+            "end": 30,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 42,
-            "end": 50,
+            "start": 34,
+            "end": 42,
             "value": "amritsar",
             "entity": "area"
           }
@@ -5900,18 +5900,18 @@
         ]
       },
       {
-        "text": "can you please provide me the email address for frro bangalore",
+        "text": "can you please provide me the email for frro bangalore",
         "intent": "email",
         "entities": [
           {
-            "start": 48,
-            "end": 52,
+            "start": 40,
+            "end": 44,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 53,
-            "end": 62,
+            "start": 45,
+            "end": 54,
             "value": "bangalore",
             "entity": "area"
           }
@@ -5936,18 +5936,18 @@
         ]
       },
       {
-        "text": "mail address for frro calicut",
+        "text": "mail for frro calicut",
         "intent": "email",
         "entities": [
           {
-            "start": 17,
-            "end": 21,
+            "start": 9,
+            "end": 13,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 22,
-            "end": 29,
+            "start": 14,
+            "end": 21,
             "value": "calicut",
             "entity": "area"
           }
@@ -5972,36 +5972,36 @@
         ]
       },
       {
-        "text": "mail address for frro of cochin",
+        "text": "mail for frro of cochin",
         "intent": "email",
         "entities": [
           {
-            "start": 25,
-            "end": 31,
+            "start": 17,
+            "end": 23,
             "value": "cochin",
             "entity": "area"
           },
           {
-            "start": 17,
-            "end": 21,
+            "start": 9,
+            "end": 13,
             "value": "frro",
             "entity": "body"
           }
         ]
       },
       {
-        "text": "email address for frro cochin",
+        "text": "email for frro cochin",
         "intent": "email",
         "entities": [
           {
-            "start": 23,
-            "end": 29,
+            "start": 15,
+            "end": 21,
             "value": "cochin",
             "entity": "area"
           },
           {
-            "start": 18,
-            "end": 22,
+            "start": 10,
+            "end": 14,
             "value": "frro",
             "entity": "body"
           }
@@ -6026,18 +6026,18 @@
         ]
       },
       {
-        "text": "can you give me the email address for frro of delhi",
+        "text": "can you give me the email for frro of delhi",
         "intent": "email",
         "entities": [
           {
-            "start": 38,
-            "end": 42,
+            "start": 30,
+            "end": 34,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 46,
-            "end": 51,
+            "start": 38,
+            "end": 43,
             "value": "delhi",
             "entity": "area"
           }
@@ -6062,36 +6062,18 @@
         ]
       },
       {
-        "text": "goa frro mail address",
+        "text": "please give me the email for goa frro",
         "intent": "email",
         "entities": [
           {
-            "start": 4,
-            "end": 8,
-            "value": "frro",
-            "entity": "body"
-          },
-          {
-            "start": 0,
-            "end": 3,
-            "value": "goa",
-            "entity": "area"
-          }
-        ]
-      },
-      {
-        "text": "please give me the email address for goa frro",
-        "intent": "email",
-        "entities": [
-          {
-            "start": 37,
-            "end": 40,
+            "start": 29,
+            "end": 32,
             "value": "goa",
             "entity": "area"
           },
           {
-            "start": 41,
-            "end": 45,
+            "start": 33,
+            "end": 37,
             "value": "frro",
             "entity": "body"
           }
@@ -6116,18 +6098,18 @@
         ]
       },
       {
-        "text": "send me the email address of hyderabad frro",
+        "text": "send me the email of hyderabad frro",
         "intent": "email",
         "entities": [
           {
-            "start": 39,
-            "end": 43,
+            "start": 31,
+            "end": 35,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 29,
-            "end": 38,
+            "start": 21,
+            "end": 30,
             "value": "hyderabad",
             "entity": "area"
           }
@@ -6152,18 +6134,18 @@
         ]
       },
       {
-        "text": "what is the email address for kolkata frro",
+        "text": "what is the email for kolkata frro",
         "intent": "email",
         "entities": [
           {
-            "start": 38,
-            "end": 42,
+            "start": 30,
+            "end": 34,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 30,
-            "end": 37,
+            "start": 22,
+            "end": 29,
             "value": "kolkata",
             "entity": "area"
           }
@@ -6188,18 +6170,18 @@
         ]
       },
       {
-        "text": "what is the mail address for frro of lucknow",
+        "text": "what is the mail for frro of lucknow",
         "intent": "email",
         "entities": [
           {
-            "start": 29,
-            "end": 33,
+            "start": 21,
+            "end": 25,
             "value": "frro",
             "entity": "body"
           },
           {
-            "start": 37,
-            "end": 44,
+            "start": 29,
+            "end": 36,
             "value": "lucknow",
             "entity": "area"
           }
@@ -6242,18 +6224,18 @@
         ]
       },
       {
-        "text": "email address frro mumbai",
+        "text": "email frro mumbai",
         "intent": "email",
         "entities": [
           {
-            "start": 19,
-            "end": 25,
+            "start": 11,
+            "end": 17,
             "value": "mumbai",
             "entity": "area"
           },
           {
-            "start": 14,
-            "end": 18,
+            "start": 6,
+            "end": 10,
             "value": "frro",
             "entity": "body"
           }
@@ -6296,24 +6278,6 @@
         ]
       },
       {
-        "text": "frro of trivandrum mail address",
-        "intent": "email",
-        "entities": [
-          {
-            "start": 0,
-            "end": 4,
-            "value": "frro",
-            "entity": "body"
-          },
-          {
-            "start": 8,
-            "end": 18,
-            "value": "trivandrum",
-            "entity": "area"
-          }
-        ]
-      },
-      {
         "text": "what is the email id for the visa support centre",
         "intent": "email",
         "entities": [
@@ -6334,6 +6298,60 @@
             "end": 19,
             "value": "visa support centre",
             "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "goa frro mail",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "goa",
+            "entity": "area"
+          }
+        ]
+      },
+      {
+        "text": "frro of trivandrum mail",
+        "intent": "email",
+        "entities": [
+          {
+            "start": 8,
+            "end": 18,
+            "value": "trivandrum",
+            "entity": "area"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "frro",
+            "entity": "body"
+          }
+        ]
+      },
+      {
+        "text": "send me the address for frro of lucknow",
+        "intent": "address",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "frro",
+            "entity": "body"
+          },
+          {
+            "start": 32,
+            "end": 39,
+            "value": "lucknow",
+            "entity": "area"
           }
         ]
       }
