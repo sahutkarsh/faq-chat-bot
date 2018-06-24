@@ -7698,6 +7698,708 @@
           }
         ],
         "text": "what are the support services that are offered at embassies"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different types of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the types of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 9,
+            "end": 13,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "types of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "visa types"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different kinds of visa available"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 37,
+            "end": 41,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different categories of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "visa categories"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "categories of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what kinds of visa are available"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the various types of visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "e-visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different types of e-visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 22,
+            "end": 28,
+            "value": "e-visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the types of e-visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "e-visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "types of e-visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "e-visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "e-visa types"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "e-visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different kinds of e-visa available"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 37,
+            "end": 43,
+            "value": "e visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different categories of e visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "e visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "e visa categories"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "e visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "categories of e visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "e visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what kinds of e visa are available"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "e visa",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the various types of e visa"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the types of taxable income"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 40,
+            "end": 46,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different kinds of taxable income"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 33,
+            "end": 39,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the category of taxable income"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "types of taxable income"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "what are the different types of income that are taxable"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "what kind of income are taxable"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "categories of income taxable"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 41,
+            "end": 44,
+            "value": "ror",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the types of taxable income for ror"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 40,
+            "end": 46,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 51,
+            "end": 54,
+            "value": "ror",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the different kinds of taxable income for ror"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 33,
+            "end": 39,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 44,
+            "end": 47,
+            "value": "ror",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the category of taxable income for ror"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 28,
+            "end": 31,
+            "value": "ror",
+            "entity": "status"
+          }
+        ],
+        "text": "types of taxable income for ror"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 60,
+            "end": 63,
+            "value": "ror",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the different types of income that are taxable for ror"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 36,
+            "end": 40,
+            "value": "rnor",
+            "entity": "status"
+          }
+        ],
+        "text": "what kind of income are taxable for rnor"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 33,
+            "end": 37,
+            "value": "rnor",
+            "entity": "status"
+          }
+        ],
+        "text": "categories of income taxable for rnor"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 30,
+            "end": 36,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 41,
+            "end": 45,
+            "value": "rnor",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the types of taxable income for rnor"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 40,
+            "end": 46,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 51,
+            "end": 55,
+            "value": "rnor",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the different kinds of taxable income for rnor"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 33,
+            "end": 39,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 44,
+            "end": 46,
+            "value": "nr",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the category of taxable income for nr"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 28,
+            "end": 30,
+            "value": "nr",
+            "entity": "status"
+          }
+        ],
+        "text": "types of taxable income for nr"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 60,
+            "end": 62,
+            "value": "nr",
+            "entity": "status"
+          }
+        ],
+        "text": "what are the different types of income that are taxable for nr"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 36,
+            "end": 38,
+            "value": "nr",
+            "entity": "status"
+          }
+        ],
+        "text": "what kind of income are taxable for nr"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 38,
+            "end": 44,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 8,
+            "end": 10,
+            "value": "nr",
+            "entity": "status"
+          }
+        ],
+        "text": "i am an nr what are the categories of income taxable for me"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ror",
+            "entity": "status"
+          },
+          {
+            "start": 41,
+            "end": 47,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "i am a ror what are the types of taxable income for me"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "ror",
+            "entity": "status"
+          },
+          {
+            "start": 48,
+            "end": 54,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "i belong to the ror status what are the taxable income categories for me"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 49,
+            "end": 55,
+            "value": "income",
+            "entity": "subject"
+          },
+          {
+            "start": 7,
+            "end": 11,
+            "value": "rnor",
+            "entity": "status"
+          }
+        ],
+        "text": "i have rnor status what are the kinds of taxable income for me"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 7,
+            "end": 10,
+            "value": "ror",
+            "entity": "status"
+          },
+          {
+            "start": 33,
+            "end": 39,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "i am a ror what are the types of income that are taxable for me"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 27,
+            "end": 30,
+            "value": "ror",
+            "entity": "status"
+          },
+          {
+            "start": 80,
+            "end": 86,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "if a person belongs to the ror category what are the different types of taxable income for him"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "rnor",
+            "entity": "status"
+          },
+          {
+            "start": 61,
+            "end": 67,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "i have the status of an rnor what are the different kinds of income taxable"
+      },
+      {
+        "intent": "types",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "ror",
+            "entity": "status"
+          },
+          {
+            "start": 60,
+            "end": 66,
+            "value": "income",
+            "entity": "subject"
+          }
+        ],
+        "text": "i have the status of an ror what are the different kinds of income taxable"
       }
     ],
     "regex_features": [],
