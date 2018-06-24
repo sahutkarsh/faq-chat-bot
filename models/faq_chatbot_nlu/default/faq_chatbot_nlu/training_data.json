@@ -7218,6 +7218,486 @@
           }
         ],
         "text": "tourist visa purpose"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "how do i register as an oci"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "where do i register for oci status"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 31,
+            "end": 34,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "how do i register myself as an oci"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "oci registration procedure"
+      },
+      {
+        "intent": "procedure",
+        "entities": [
+          {
+            "start": 37,
+            "end": 40,
+            "value": "oci",
+            "entity": "subject"
+          }
+        ],
+        "text": "what is the registration process for oci"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 46,
+            "end": 65,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what are the services available at the indian diplomatic missions abroad"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 50,
+            "end": 69,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what kind of services are available at the indian diplomatic missions"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 24,
+            "end": 43,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what services do indian diplomatic missions offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 24,
+            "end": 33,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "what services do indian embassies offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 24,
+            "end": 34,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "what services do indian consulates offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 24,
+            "end": 31,
+            "value": "embassy",
+            "entity": "body"
+          }
+        ],
+        "text": "what services do indian embassy offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 24,
+            "end": 33,
+            "value": "consulate",
+            "entity": "body"
+          }
+        ],
+        "text": "what services do indian consulate offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 33,
+            "end": 43,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "what kind of support services do consulates offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 33,
+            "end": 42,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "what kind of support services do embassies offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 40,
+            "end": 48,
+            "value": "missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what kind of support services do indian missions offer"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "how can the indian embassies help me"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 20,
+            "end": 29,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "what can the indian embassies assist me with"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 20,
+            "end": 30,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "what can the indian consulates assist me with abroad"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 32,
+            "end": 51,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what kind of support can indian diplomatic missions help me with"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 24,
+            "end": 42,
+            "value": "diplomatic mission",
+            "entity": "body"
+          }
+        ],
+        "text": "how large is the indian diplomatic mission network"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 16,
+            "end": 34,
+            "value": "diplomatic mission",
+            "entity": "body"
+          }
+        ],
+        "text": "how huge is the diplomatic mission network"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 9,
+            "end": 28,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "how many diplomatic missions does india have abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 15,
+            "end": 32,
+            "value": "indian diplomatic",
+            "entity": "body"
+          }
+        ],
+        "text": "how big is the indian diplomatic mission network"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 7,
+            "end": 25,
+            "value": "diplomatic mission",
+            "entity": "body"
+          }
+        ],
+        "text": "indian diplomatic mission network size"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 31,
+            "end": 50,
+            "value": "diplomatic missions",
+            "entity": "body"
+          }
+        ],
+        "text": "what is the size of the indian diplomatic missions network"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 9,
+            "end": 18,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "how many embassies does india have abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 9,
+            "end": 19,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "how many consulates does india have abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "number of indian embassies abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 17,
+            "end": 27,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "number of indian consulates abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "embassy",
+            "entity": "body"
+          }
+        ],
+        "text": "how many indian embassy are there abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "embassy",
+            "entity": "body"
+          }
+        ],
+        "text": "number of indian embassy presently established"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 16,
+            "end": 25,
+            "value": "consulate",
+            "entity": "body"
+          }
+        ],
+        "text": "how many indian consulate are established abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 37,
+            "end": 46,
+            "value": "consulate",
+            "entity": "body"
+          }
+        ],
+        "text": "can you tell me the number of indian consulate established abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 9,
+            "end": 18,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "how many embassies does india have abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 33,
+            "end": 51,
+            "value": "diplomatic mission",
+            "entity": "body"
+          }
+        ],
+        "text": "what is the extent of the indian diplomatic mission network"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 9,
+            "end": 17,
+            "value": "missions",
+            "entity": "body"
+          }
+        ],
+        "text": "how many missions does india have abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "missions",
+            "entity": "body"
+          }
+        ],
+        "text": "number of indian missions abroad"
+      },
+      {
+        "intent": "extent",
+        "entities": [
+          {
+            "start": 10,
+            "end": 19,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "number of embassies abroad"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 50,
+            "end": 60,
+            "value": "consulates",
+            "entity": "body"
+          }
+        ],
+        "text": "what are the support services that are offered at consulates"
+      },
+      {
+        "intent": "services",
+        "entities": [
+          {
+            "start": 50,
+            "end": 60,
+            "value": "embassies",
+            "entity": "body"
+          }
+        ],
+        "text": "what are the support services that are offered at embassies"
       }
     ],
     "regex_features": [],
