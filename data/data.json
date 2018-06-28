@@ -8442,6 +8442,78 @@
             "entity": "requirement"
           }
         ]
+      },
+      {
+        "text": "i am an nri do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an nri require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "nri",
+            "entity": "status"
+          },
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "i am an nri do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "nri visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "nri",
+            "entity": "status"
+          }
+        ]
       }
     ]
   }
