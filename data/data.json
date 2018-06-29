@@ -8514,6 +8514,582 @@
             "entity": "status"
           }
         ]
+      },
+      {
+        "text": "visa requirement for nri",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "nri",
+            "entity": "status"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "does an oci require visa to visit india?",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an oci do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an oci require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an oci do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "oci visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "oci",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an pio require visa to visit india?",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "pio",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an pio do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "pio",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an pio require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "pio",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an pio do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "pio",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "pio visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "pio",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an prs require visa to visit india?",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an prs do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an prs require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an prs do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 11,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "prs visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 4,
+            "end": 8,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 3,
+            "value": "prs",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does a foreign national require visa to visit india?",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 7,
+            "end": 23,
+            "value": "foreign national",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an foreign national do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 37,
+            "end": 41,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 24,
+            "value": "foreign national",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an foreign national require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 33,
+            "end": 37,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 24,
+            "value": "foreign national",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an foreign national do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 37,
+            "end": 41,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 24,
+            "value": "foreign national",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "foreign national visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 16,
+            "value": "foreign national",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does a foreigner require visa to visit india?",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 7,
+            "end": 16,
+            "value": "foreigner",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an foreigner do i need a visa to visit india",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "value": "foreigner",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "does an foreigner require visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 26,
+            "end": 30,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "value": "foreigner",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "i am an foreigner do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 8,
+            "end": 17,
+            "value": "foreigner",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "foreigner visa requirement",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 10,
+            "end": 14,
+            "value": "visa",
+            "entity": "requirement"
+          },
+          {
+            "start": 0,
+            "end": 9,
+            "value": "foreigner",
+            "entity": "status"
+          }
+        ]
+      },
+      {
+        "text": "visa requirement for oci",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "oci",
+            "entity": "status"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "visa requirement for pio",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "pio",
+            "entity": "status"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "visa requirement for prs",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "prs",
+            "entity": "status"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "visa requirement for foreigner",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 21,
+            "end": 30,
+            "value": "foreigner",
+            "entity": "status"
+          },
+          {
+            "start": 0,
+            "end": 4,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "do i need a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "do i require a visa",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
+      },
+      {
+        "text": "is there a visa requirement for me",
+        "intent": "requirement",
+        "entities": [
+          {
+            "start": 11,
+            "end": 15,
+            "value": "visa",
+            "entity": "requirement"
+          }
+        ]
       }
     ]
   }
