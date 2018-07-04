@@ -113,6 +113,7 @@ def one_optional_double_entity_routing(parsed_query, intent, req_entity, optiona
             optional_entity_value.append(entity['value'])
 
     if (len(optional_entity_value) == 0):
+        print('\n')
         print(demand_optional_entity_message)
 
         flag = 0
