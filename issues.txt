@@ -3,3 +3,4 @@ full forms
 what is **abbreviation**, problem status: heavy
 services indian **embassies** remove embassies, problem status: heavy
 address and email address
+types intent, problem status: heavy
